@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "prabhat",
+      "address": "jhcsbdcuyh ashibxcyuhsavcx hjzvcuy",
+      "age": 23,
+      "department": "IT",
+      "salary": 232323
+    },
+    {
+      "age": "23",
+      "name": "prabhat",
+      "address": "kings palace 1, kiit road,patia",
+      "department": "IT",
+      "salary": "213234",
+      "married": true,
+      "id": 2
+    },
+    {
+      "age": "25",
+      "name": "banti",
+      "address": "cdsc ",
+      "department": "Marketing ",
+      "salary": "213234",
+      "married": true,
+      "id": 3
+    },
+    {
+      "name": "Prabhat Mishra",
+      "address": "kings palace 1, kiit road,patia",
+      "age": "23",
+      "department": "Production",
+      "salary": "233",
+      "married": true,
+      "id": 4
+    },
+    {
+      "name": "saurabh",
+      "address": "C/130/468 IN FRONT OF GEETA VATIKA SHAHPUR, GORAKHPUR-273006",
+      "age": "23",
+      "department": "IT",
+      "salary": "233293293",
+      "married": true,
+      "id": 5
+    }
+  ]
+}
